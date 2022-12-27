@@ -12,9 +12,11 @@ export default function Categories() {
             horizontal
             showsHorizontalScrollIndicator={false}
         >
-            <CategoryCard imgUrl='https://links.papareact.com/wru' title='testing1' />
-            <CategoryCard imgUrl='https://links.papareact.com/wru' title='testing2' />
-            <CategoryCard imgUrl='https://links.papareact.com/wru' title='testing3' />
+            <CategoryCard imgUrl='https://links.papareact.com/gn7' title='testing1' />
+            <CategoryCard imgUrl='https://links.papareact.com/gn7' title='testing2' />
+            <CategoryCard imgUrl='https://links.papareact.com/gn7' title='testing3' />
+            <CategoryCard imgUrl='https://links.papareact.com/gn7' title='testing4' />
+            <CategoryCard imgUrl='https://links.papareact.com/gn7' title='testing5' />
         </ScrollView>
     )
 }
