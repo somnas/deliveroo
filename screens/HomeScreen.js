@@ -2,7 +2,7 @@ import { View, Text, SafeAreaView, Image, TextInput, ScrollView } from 'react-na
 import React, { useLayoutEffect } from 'react';
 import { useNavigation } from '@react-navigation/native';
 import { UserIcon, ChevronDownIcon, MagnifyingGlassIcon, AdjustmentsVerticalIcon } from "react-native-heroicons/outline";
-import Categories from '../components/categories';
+import Categories from '../components/Categories';
 
 
 export default function HomeScreen() {
