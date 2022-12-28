@@ -70,5 +70,5 @@ export default function HomeScreen() {
             </ScrollView>
 
         </SafeAreaView>
-    )
+    );
 }

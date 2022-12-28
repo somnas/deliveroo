@@ -20,7 +20,19 @@ export default function FeaturedRow({ id, title, description }) {
                 className='pt-4'
             >
                 <RestaurantCard
-                    id={123}
+                    id={1}
+                    imgUrl='https://links.papareact.com/gn7'
+                    title='Sushi'
+                    rating={4.5}
+                    genre='Japanese'
+                    address='123 Main St'
+                    short_description='This is a short test description'
+                    dishes={[]}
+                    long={12315}
+                    lat={231452}
+                />
+                <RestaurantCard
+                    id={2}
                     imgUrl='https://links.papareact.com/gn7'
                     title='Sushi'
                     rating={4.5}
